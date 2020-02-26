@@ -1,0 +1,18 @@
+<MyW>:
+    Button:
+        id: b1
+        text: 'Press to smash'
+        on_release: root.b_smash()
+
+<MyW1, MyW2>:
+    Button:
+        on_press: self.text(txt_id.text)
+    TextInput:
+        id: txt_id
+
+<CircleBut>:
+    Button:
+        color: 80
+        bar_color: 100
+        text: 'Button'
+

@@ -1,0 +1,19 @@
+<MyW>:
+    Label:
+        pos: [400, 400]
+        text: ''
+        id: label
+
+    Button:
+        pos: [400, 100]
+        size: [100, 50]
+        id: button
+        on_press: root.button_callback()
+
+    TextInput:
+        text: ''
+        pos: [100, 100]
+        size: [300, 50]
+        id: t_input
+        multiline: False
+        on_focus: root.input_callback(self.text)

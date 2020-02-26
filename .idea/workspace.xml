@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffcb6b64-04b7-4b27-bb14-742daa2703b0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="circle_mind" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T6PhNEi0ckJbVb9RiOJiJWpf3w" />
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn_kivy/circle_button" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ПРОГРАММИРОВАНИЕ\PYTHON\NAVATAR\circle_mind\codewars" />
+      <recent name="D:\ПРОГРАММИРОВАНИЕ\PYTHON\NAVATAR\circle_mind\learn_kivy\zoom_test" />
+      <recent name="D:\ПРОГРАММИРОВАНИЕ\PYTHON\NAVATAR\circle_mind\db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ПРОГРАММИРОВАНИЕ\PYTHON\NAVATAR\circle_mind\learn_kivy\circle_button" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.my_test">
+    <configuration name="Python" type="PythonConfigurationType" factoryName="Python">
+      <module name="circle_mind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\CODES\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TK_random_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="circle_mind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diskretka" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diskretka/TK_random_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="addwidg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="circle_mind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_kivy/addwidg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_kivy/addwidg/addwidg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="circle_mind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_in_width" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="circle_mind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/grokaem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grokaem/search_in_width.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="circle_mind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/test_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python" />
+      <item itemvalue="Python.test_test" />
+      <item itemvalue="Python.search_in_width" />
+      <item itemvalue="Python.addwidg" />
+      <item itemvalue="Python.TK_random_generator" />
+      <item itemvalue="Python.my_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.my_test" />
+        <item itemvalue="Python.test_test" />
+        <item itemvalue="Python.TK_random_generator" />
+        <item itemvalue="Python.addwidg" />
+        <item itemvalue="Python.search_in_width" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffcb6b64-04b7-4b27-bb14-742daa2703b0" name="Default Changelist" comment="" />
+      <created>1572777689831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572777689831</updated>
+      <workItem from="1572777695305" duration="448000" />
+      <workItem from="1572778233196" duration="8371000" />
+      <workItem from="1572990521910" duration="1281000" />
+      <workItem from="1573067700913" duration="4016000" />
+      <workItem from="1573412759194" duration="1580000" />
+      <workItem from="1573465484936" duration="2859000" />
+      <workItem from="1573559327481" duration="7486000" />
+      <workItem from="1573629260507" duration="18075000" />
+      <workItem from="1573803327448" duration="6076000" />
+      <workItem from="1573905566907" duration="16776000" />
+      <workItem from="1573987352673" duration="3288000" />
+      <workItem from="1573998303170" duration="7330000" />
+      <workItem from="1574021827889" duration="2920000" />
+      <workItem from="1574096460689" duration="5092000" />
+      <workItem from="1574172290624" duration="8887000" />
+      <workItem from="1574276914156" duration="4798000" />
+      <workItem from="1574406559711" duration="7520000" />
+      <workItem from="1574513660226" duration="6015000" />
+      <workItem from="1574580640209" duration="2036000" />
+      <workItem from="1574782928610" duration="3688000" />
+      <workItem from="1574849054883" duration="12421000" />
+      <workItem from="1575211751146" duration="7000" />
+      <workItem from="1575577225903" duration="6703000" />
+      <workItem from="1575659444406" duration="751000" />
+      <workItem from="1576006990416" duration="8308000" />
+      <workItem from="1576174030917" duration="8446000" />
+      <workItem from="1576324180217" duration="9458000" />
+      <workItem from="1576403850694" duration="22652000" />
+      <workItem from="1576492882709" duration="10855000" />
+      <workItem from="1576566473998" duration="29866000" />
+      <workItem from="1576676654316" duration="2333000" />
+      <workItem from="1576694191653" duration="3770000" />
+      <workItem from="1576927920889" duration="1341000" />
+      <workItem from="1577112309714" duration="8863000" />
+      <workItem from="1577623148475" duration="1219000" />
+      <workItem from="1577711808414" duration="510000" />
+      <workItem from="1578638843180" duration="598000" />
+      <workItem from="1580465562369" duration="6665000" />
+      <workItem from="1580642514075" duration="4726000" />
+      <workItem from="1580822392192" duration="834000" />
+      <workItem from="1580823382836" duration="3661000" />
+      <workItem from="1580983160408" duration="9809000" />
+      <workItem from="1581110311040" duration="5380000" />
+      <workItem from="1581690759490" duration="10533000" />
+      <workItem from="1581858261966" duration="16252000" />
+      <workItem from="1581938140343" duration="13654000" />
+      <workItem from="1582110302028" duration="16156000" />
+      <workItem from="1582157320063" duration="235000" />
+      <workItem from="1582214122391" duration="1573000" />
+      <workItem from="1582215963340" duration="6605000" />
+      <workItem from="1582283561486" duration="4659000" />
+      <workItem from="1582290439753" duration="2744000" />
+      <workItem from="1582293218875" duration="9792000" />
+      <workItem from="1582579647809" duration="1922000" />
+      <workItem from="1582622009208" duration="12191000" />
+      <workItem from="1582653077131" duration="616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/grokaem/insert_sort.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diskretka/TK_random_generator.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/circle_mind$on_touch_down.coverage" NAME="on_touch_down Coverage Results" MODIFIED="1574285706276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/touch_down" />
+    <SUITE FILE_PATH="coverage/circle_mind$move_button.coverage" NAME="move_button Coverage Results" MODIFIED="1574450407967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/move_button" />
+    <SUITE FILE_PATH="coverage/circle_mind$srs2_ex2.coverage" NAME="srs2_ex2 Coverage Results" MODIFIED="1576445790794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$schedule_interval_app.coverage" NAME="schedule_interval_app Coverage Results" MODIFIED="1574784095326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/schedule_interval_app" />
+    <SUITE FILE_PATH="coverage/circle_mind$bubble_button.coverage" NAME="bubble_button Coverage Results" MODIFIED="1574173214243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy" />
+    <SUITE FILE_PATH="coverage/circle_mind$addwidg.coverage" NAME="addwidg Coverage Results" MODIFIED="1582219921491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/addwidg" />
+    <SUITE FILE_PATH="coverage/circle_mind$dubstep.coverage" NAME="dubstep Coverage Results" MODIFIED="1580983414402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/circle_mind$divide_sum_and_rule.coverage" NAME="divide_sum_and_rule Coverage Results" MODIFIED="1581946790265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$convert_string_to_camel_case.coverage" NAME="convert_string_to_camel_case Coverage Results" MODIFIED="1581117911911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/circle_mind$count_element_recursion.coverage" NAME="count_element_recursion Coverage Results" MODIFIED="1581946878138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1582135658953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/УЧЁБА/MY_LABS/OOP/lab1" />
+    <SUITE FILE_PATH="coverage/circle_mind$labb.coverage" NAME="labb Coverage Results" MODIFIED="1576679490902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$radio.coverage" NAME="radio Coverage Results" MODIFIED="1581938172690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diskretka" />
+    <SUITE FILE_PATH="coverage/circle_mind$scrollbar.coverage" NAME="scrollbar Coverage Results" MODIFIED="1581944715111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diskretka/train" />
+    <SUITE FILE_PATH="coverage/circle_mind$srs1_ex3.coverage" NAME="srs1_ex3 Coverage Results" MODIFIED="1576434135140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$graph_prog.coverage" NAME="graph_prog Coverage Results" MODIFIED="1582122274578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$str2_ex3.coverage" NAME="str2_ex3 Coverage Results" MODIFIED="1576601054140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$Python.coverage" NAME="Python Coverage Results" MODIFIED="1572778330313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/circle_mind$circle.coverage" NAME="circle Coverage Results" MODIFIED="1574887190935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/circle_button" />
+    <SUITE FILE_PATH="coverage/circle_mind$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1581697716078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$trigger.coverage" NAME="trigger Coverage Results" MODIFIED="1574538042944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/trigger" />
+    <SUITE FILE_PATH="coverage/circle_mind$srs1_ex1.coverage" NAME="srs1_ex1 Coverage Results" MODIFIED="1576419314599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$mexican_wave.coverage" NAME="mexican_wave Coverage Results" MODIFIED="1581112853345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/circle_mind$srs2_ex1.coverage" NAME="srs2_ex1 Coverage Results" MODIFIED="1576437495203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$lab7.coverage" NAME="lab7 Coverage Results" MODIFIED="1576418018120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$srs3_1part.coverage" NAME="srs3_1part Coverage Results" MODIFIED="1576609424296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$srs1_ex2.coverage" NAME="srs1_ex2 Coverage Results" MODIFIED="1576433526696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$replace_with_alphabet_position.coverage" NAME="replace_with_alphabet_position Coverage Results" MODIFIED="1581010940614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/circle_mind$test_test__1_.coverage" NAME="test_test (1) Coverage Results" MODIFIED="1582131794518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/gittrain" />
+    <SUITE FILE_PATH="coverage/circle_mind$test.coverage" NAME="test Coverage Results" MODIFIED="1580468720632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$srs3_part2.coverage" NAME="srs3_part2 Coverage Results" MODIFIED="1576697955976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$e4_only_py.coverage" NAME="e4_only_py Coverage Results" MODIFIED="1574000942454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy" />
+    <SUITE FILE_PATH="coverage/circle_mind$clientdb_life__1_.coverage" NAME="clientdb_life (1) Coverage Results" MODIFIED="1573913684149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/circle_mind$zoom.coverage" NAME="zoom Coverage Results" MODIFIED="1574177397367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/zoom_test" />
+    <SUITE FILE_PATH="coverage/circle_mind$widg1.coverage" NAME="widg1 Coverage Results" MODIFIED="1574887269489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/widg1" />
+    <SUITE FILE_PATH="coverage/circle_mind$search_in_width.coverage" NAME="search_in_width Coverage Results" MODIFIED="1582138876822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$unique_in_order.coverage" NAME="unique_in_order Coverage Results" MODIFIED="1581030821916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/circle_mind$srs2_ex3.coverage" NAME="srs2_ex3 Coverage Results" MODIFIED="1580468420892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$my_test.coverage" NAME="my_test Coverage Results" MODIFIED="1582652295268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1581699772178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$test_test.coverage" NAME="test_test Coverage Results" MODIFIED="1582299680407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/circle_mind$lab6.coverage" NAME="lab6 Coverage Results" MODIFIED="1576007074174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$my_w.coverage" NAME="my_w Coverage Results" MODIFIED="1574114689851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy" />
+    <SUITE FILE_PATH="coverage/circle_mind$TK_random_generator.coverage" NAME="TK_random_generator Coverage Results" MODIFIED="1582222299941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diskretka" />
+    <SUITE FILE_PATH="coverage/circle_mind$grab_app.coverage" NAME="grab_app Coverage Results" MODIFIED="1574452044642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/grab_app" />
+    <SUITE FILE_PATH="coverage/circle_mind$max_elem_recurs.coverage" NAME="max_elem_recurs Coverage Results" MODIFIED="1581948200471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$check_buttons.coverage" NAME="check_buttons Coverage Results" MODIFIED="1581877021905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diskretka" />
+    <SUITE FILE_PATH="coverage/circle_mind$lab5.coverage" NAME="lab5 Coverage Results" MODIFIED="1573809187200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$clientdb_life.coverage" NAME="clientdb_life Coverage Results" MODIFIED="1573412838558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/circle_mind$first_controller.coverage" NAME="first_controller Coverage Results" MODIFIED="1574102955492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy" />
+    <SUITE FILE_PATH="coverage/circle_mind$widget_events.coverage" NAME="widget_events Coverage Results" MODIFIED="1574887199495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/widget_events" />
+    <SUITE FILE_PATH="coverage/circle_mind$divide_field_and_rule.coverage" NAME="divide_field_and_rule Coverage Results" MODIFIED="1581944118365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$on_touch_move.coverage" NAME="on_touch_move Coverage Results" MODIFIED="1574286607067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy/touh_move" />
+    <SUITE FILE_PATH="coverage/circle_mind$quicksort.coverage" NAME="quicksort Coverage Results" MODIFIED="1581959151471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$e4_with_kv.coverage" NAME="e4_with_kv Coverage Results" MODIFIED="1574103221690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy" />
+    <SUITE FILE_PATH="coverage/circle_mind$fact_recursion.coverage" NAME="fact_recursion Coverage Results" MODIFIED="1581701920609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$human_readable_time.coverage" NAME="human_readable_time Coverage Results" MODIFIED="1580987286586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/circle_mind$selection_sort.coverage" NAME="selection_sort Coverage Results" MODIFIED="1581699783131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grokaem" />
+    <SUITE FILE_PATH="coverage/circle_mind$my_widget_.coverage" NAME="my_widget_ Coverage Results" MODIFIED="1574885083019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_kivy" />
+    <SUITE FILE_PATH="coverage/circle_mind$test_diskretka.coverage" NAME="test_diskretka Coverage Results" MODIFIED="1581941377309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diskretka" />
+  </component>
+</project>
